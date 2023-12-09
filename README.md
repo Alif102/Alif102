@@ -13,9 +13,11 @@
  
  🔭 I’m currently working on **a Booking App**
  
- 🌱 I’m currently learning **Tailwind, React Js, AWS , Express Js**
+ 🌱 I’m currently learning **Next Js , Mongoose, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Alif102/Alif102/issues)**
+
+👯 I’m looking to collaborate on - **MERN Stack projects.**
 
 - ⚡ Fun fact **I love to watch Movie and Series.**
 
