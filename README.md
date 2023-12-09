@@ -67,16 +67,12 @@
 </p>
 </p>
 <p align="center">
-  <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="rony ahmed"/>
+  <a href="https://github.com/Alif102">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alif102&theme=radical&border=7F3FBF&background=0D1117" alt="Alif ahmed"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radical" alt="all GitHub Contribution"/>
-  </a>
-</p>
+
 
 <br/><br/>
 
